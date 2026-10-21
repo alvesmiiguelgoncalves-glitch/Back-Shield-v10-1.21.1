@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.backtooltweak.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BackRenderScopeMixin",
+    "HeldItemRendererMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
